@@ -1,0 +1,21 @@
+{
+  "name": "amonguscompetetive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oxzify#0093",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "canvas": "^2.6.1",
+    "discord-xp": "^1.1.7",
+    "discord.js": "^12.4.1",
+    "http": "0.0.1-security",
+    "jsonfile": "^6.1.0",
+    "mongoose": "^5.10.15",
+    "random": "^2.2.0"
+  }
+}
